@@ -9,9 +9,9 @@
 	<key>settings</key>
 	<dict>
 		<key>decreaseIndentPattern</key>
-		<string>^\s*(elif|else|except|finally)\b.*:</string>
+		<string></string>
 		<key>increaseIndentPattern</key>
-		<string>^\s*(class|def|elif|else|except|finally|for|if|try|with|while)\b.*:\s*$</string>
+		<string></string>
 		<key>disableIndentNextLinePattern</key>
 		<string></string>
 		<key>shellVariables</key>
@@ -21,12 +21,6 @@
 				<string>TM_COMMENT_START</string>
 				<key>value</key>
 				<string># </string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>TM_LINE_TERMINATOR</string>
-				<key>value</key>
-				<string>:</string>
 			</dict>
 		</array>
 	</dict>
