@@ -70,7 +70,7 @@
                     <key>0</key>
                     <dict>
                         <key>name</key>
-                        <string>punctuation.definition.string.end.shell</string>
+                        <string>punctuation.definition.string.end.avisynth</string>
                     </dict>
                 </dict>
                 <key>beginCaptures</key>
@@ -78,11 +78,11 @@
                     <key>0</key>
                     <dict>
                         <key>name</key>
-                        <string>punctuation.definition.string.begin.shell</string>
+                        <string>punctuation.definition.string.begin.avisynth</string>
                     </dict>
                 </dict>
                 <key>name</key>
-                <string>string.quoted.double.dosbatch</string>
+                <string>string.quoted.double.avisynth</string>
                 <key>end</key>
                 <string>"</string>
             </dict>
