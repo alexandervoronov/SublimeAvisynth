@@ -10,4 +10,4 @@ Updates:
  * Line commenting/uncommenting with Ctrl+/
 
 Installation (for Windows):
- Clone this repo to folder "c:\Users\<username>\AppData\Roaming\Sublime Text 2\Packages\AviSynth".
+ Clone this repo to folder "c:\Users\\\<username>\AppData\Roaming\Sublime Text 2\Packages\AviSynth".
